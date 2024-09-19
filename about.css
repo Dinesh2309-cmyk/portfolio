@@ -1,0 +1,53 @@
+.main1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 73%;
+    -webkit-text-stroke-width: medium;
+    font-family: cursive;
+}
+.main{
+    background-image:url(./img.vdo/boy_silhouette_sunset_120026_1920x1080.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+    
+}
+.center-text{
+    color: antiquewhite;
+    margin-top: 80px;
+}
+.text1{
+    width: 40%;
+    color: antiquewhite;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+.text2{
+    width: 40%;
+    color: antiquewhite;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+.text3{
+    width: 40%;
+    color: antiquewhite;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+.text4{
+    width: 40%;
+    color: antiquewhite;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+@keyframes text1{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 300px;
+    }
+}
+.fade-in{
+    animation: text1 2s ease-in-out
+}

@@ -1,0 +1,37 @@
+.main{
+    background-image: url(./img.vdo/home\ img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 73%;
+    -webkit-text-stroke-width: medium;
+    font-family: cursive;
+    
+}
+.main2{
+    margin-left: 70%;
+    margin-top: 16%;
+}
+.main3{
+    margin-left: 71%;
+    color: aliceblue;
+
+}
+a:hover{
+    background-color: aqua;
+}
+.Resume{
+background-color: aqua;
+margin-top: 50px;
+padding: 20px 70px;
+border: none;
+border-radius: 30px;
+cursor: pointer;
+font-weight: 600;
+box-shadow: 0 0 #0ef;
+
+}

@@ -1,0 +1,30 @@
+.main1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 73%;
+    -webkit-text-stroke-width: medium;
+    font-family: cursive;
+}
+.main{
+    background-image: url(./img.vdo/skill\ img.webp);
+
+}
+a:hover{
+    background-color: aqua;
+}
+.skill{
+    color: aliceblue;
+    font-style: italic;
+    font-size: 40px;
+
+}
+.tools{
+    color: black;
+    display: grid;
+    grid-template-columns:auto auto auto ;
+    gap: 20px;
+}
+img{
+   filter: drop-shadow(2px 2px 20px red);
+}

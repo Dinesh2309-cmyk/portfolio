@@ -1,0 +1,15 @@
+.main1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 73%;
+    -webkit-text-stroke-width: medium;
+    font-family: cursive;
+}
+.main{
+    background-image: url(./img.vdo/contact\ img.webp);
+
+}
+a:hover{
+    background-color: aqua;
+}
